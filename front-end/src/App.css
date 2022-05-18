@@ -1,0 +1,23 @@
+.bg-color{
+  background-color: #5d90a8;
+  height: 100vh;
+}
+
+.bg-chatarea{
+  background-color: rgb(228, 228, 228);
+  height: 93.4vh;
+}
+
+.bg-scroll{
+  height: 87.7vh;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  display: flex;
+  flex-direction: column-reverse
+}
+
+.bg-chatbox{
+  background-color: #b2d3f1;
+}
