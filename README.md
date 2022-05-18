@@ -1,0 +1,2 @@
+# Project-Saksham
+Single point solution for communication gap between blind, deaf, mute and normal population. Application is able to convert sign language, voice, braille &amp; text to each other which enables almost everyone to be able to communicate with anyone. The sign language recognition will be achieved through computer vision, voice recognition will be achieved by DNN, braille will be achieved by a sophisticated wireless hardware.
